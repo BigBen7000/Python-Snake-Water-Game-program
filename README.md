@@ -1,2 +1,5 @@
 # Python-Snake-Water-Game-program
-A small snake water  game created using python
+Its a Basic Game created using python
+More like a stress buster
+Play it with your friends and score a Highscore
+Have fun 😄
